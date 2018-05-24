@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidTaipei.20180524</string>
+    <string name="input_phone">輸入電話號碼</string>
+    <string name="input_email">輸入Email</string>
+    <string name="input_password">輸入密碼</string>
+    <string name="send">送出</string>
+</resources>
